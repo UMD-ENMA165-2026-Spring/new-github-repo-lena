@@ -5,7 +5,7 @@
 - I added this file so I could explain my choices. This is self-explanatory.
 - I created and delete a file called trash.md to fulfill the rubric.
 
-  ##The three commit explanations
+##The three commit explanations
   - My first commit was to rename the README file and list out my books.
   - My second commit was to organize the books by their authors.
   - My third commit was to add personal ratings to the books I've read. 
