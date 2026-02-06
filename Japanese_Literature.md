@@ -3,34 +3,43 @@
 @guyer this repository is for my ENMA165 GitHub assignment!!!
 
 ## Purpose
-This repository tracks Japanese literature books I have read and my personal impressions.
+This repository tracks Japanese literature books I have read and my ratings.
 
 > [!WARNING]
 > Some of the books listed below contain graphic or sensitive topics. Reader discretion advised.
 
 > [!NOTE]
-> All opinions and ratings here are subjective.
+> All ratings here are subjective.
 
 ---
 
-# Books Organized by Author
+# Books Organized by Author With Ratings
 
-## Yukio Mishima
-- Spring Snow
-- The Sailor Who Fell from Grace with the Sea
+## Yukio Mishima: *psychological + aesthetic themes*
 
-## Osamu Dazai
-- No Longer Human
-- The Setting Sun
-- Schoolgirl
+- **Spring Snow** — ⭐⭐⭐⭐☆
 
-## Sayaka Murata
-- Convenience Store Woman
-- Earthlings
+- **The Sailor Who Fell from Grace with the Sea** — ⭐⭐⭐⭐☆
 
-## Banana Yoshimoto
-- Kitchen
-- Moonlight Shadow
 
-*Authors are shown in grouped sections for clarity.*
-**Yes yes**
+## Osamu Dazai: *existential + confessional tone*
+
+- **No Longer Human** — ⭐⭐⭐⭐⭐
+
+- **The Setting Sun** — ⭐⭐⭐⭐☆
+
+- **Schoolgirl** — ⭐⭐⭐☆☆
+
+
+## Sayaka Murata: *social satire + surrealism*
+
+- **Convenience Store Woman** — ⭐⭐⭐⭐☆
+
+- **Earthlings** — ⭐⭐⭐⭐☆
+
+
+## Banana Yoshimoto: *soft surreal + emotional*
+
+- **Kitchen** — ⭐⭐⭐⭐☆
+
+- **Moonlight Shadow** — ⭐⭐⭐⭐☆
